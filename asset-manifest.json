@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/muvie/static/css/main.7d44038e.css",
+    "main.css": "/muvie/static/css/main.9ab41a38.css",
     "main.js": "/muvie/static/js/main.a4244e78.js",
     "index.html": "/muvie/index.html",
-    "main.7d44038e.css.map": "/muvie/static/css/main.7d44038e.css.map",
+    "main.9ab41a38.css.map": "/muvie/static/css/main.9ab41a38.css.map",
     "main.a4244e78.js.map": "/muvie/static/js/main.a4244e78.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d44038e.css",
+    "static/css/main.9ab41a38.css",
     "static/js/main.a4244e78.js"
   ]
 }
